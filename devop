@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Offline-First Disaster Relief Stablecoin</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+    }
+    .container {
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h1 {
+      color: #00ff99;
+    }
+    h2 {
+      margin-top: 40px;
+      color: #00e5ff;
+    }
+    .card {
+      background: rgba(255,255,255,0.08);
+      padding: 20px;
+      border-radius: 12px;
+      margin-top: 20px;
+    }
+    img {
+      width: 100%;
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Offline-First Stablecoin System for Emergency & Disaster Relief</h1>
+
+  <div class="card">
+    <h2>Problem Statement</h2>
+    <p>
+      During disasters, relief fund distribution suffers from delays, misuse,
+      lack of transparency, and poor internet connectivity.
+      Beneficiaries often do not receive aid on time.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Proposed Solution</h2>
+    <p>
+      A blockchain-based stablecoin system that enables fast, transparent,
+      and controlled fund distribution directly to verified beneficiaries,
+      even in offline or low-network areas.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Key Features</h2>
+    <ul>
+      <li>Offline-first transactions</li>
+      <li>Stablecoin-based relief funds</li>
+      <li>Category-restricted spending</li>
+      <li>Geo-restricted usage</li>
+      <li>Public audit trail</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>System Architecture</h2>
+    <p>High-level overview of how authorities, blockchain, and beneficiaries interact.</p>
+    <!-- You can add your images here -->
+    <!-- <img src="architecture.png"> -->
+  </div>
+
+  <div class="card">
+    <h2>Impact</h2>
+    <p>
+      Ensures aid reaches the right person at the right time,
+      improves trust for donors, and reduces fund leakage.
+    </p>
+  </div>
+
+  <footer>
+    <p>Hackathon Project | Created by Joy</p>
+  </footer>
+</div>
+
+</body>
+</html>
+
+
+
+
+i pasted this codeeee
